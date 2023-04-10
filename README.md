@@ -26,7 +26,8 @@
 
   - Implementar testes unitários.
 
-> N.T.: A solução envolve os arquivos:
+> N.T. 1: Linguagem de programação para este desafio: _TypeScript_.
+> N.T. 2: A solução envolve os arquivos:
 > /src/domain/product/entity/product.spec.ts
 > /src/domain/product/entity/product.ts
 
